@@ -123,5 +123,3 @@ def gameLoop():
     quit()
 
 gameLoop()
-
-Найти еще
