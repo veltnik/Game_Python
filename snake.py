@@ -1,4 +1,4 @@
-import pygame
+"""import pygame
 import time
 import random
 
@@ -123,3 +123,5 @@ def gameLoop():
     quit()
 
 gameLoop()
+"""
+print('does not work/не рабоает')
